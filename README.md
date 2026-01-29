@@ -21,10 +21,9 @@ This repository contains structured SQL queries categorized by analytical themes
 1.  **Clone the repository**
    ```bash
    git clone [https://github.com/moizmalik13588/SQL-Data-Analytics-Project.git](https://github.com/moizmalik13588/SQL-Data-Analytics-Project.git)
-    ```
 2.  **Database Setup:** Import the provided `.sql` schema files into your preferred SQL engine (PostgreSQL, MySQL, SQL Server, etc.).
 3.  **Run Queries:** Navigate through the folders to find specific analytical scripts.
-
+    ```
 ---
 
 ## 📊 Sample Insights
